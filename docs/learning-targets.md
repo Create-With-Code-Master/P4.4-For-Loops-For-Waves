@@ -7,7 +7,7 @@ layout: tabbed-assignment
 By the end of this lesson, you will be able to:
 
 * Repeat functions with `for` loops
-* Increment integer values in a loop with the **++** operator
+* Increment integer values in a loop with the `++` operator
 * Target objects in a scene with `FindObjectsOfType()`
 * Return the length of an array as an integer with the .Length property
 
