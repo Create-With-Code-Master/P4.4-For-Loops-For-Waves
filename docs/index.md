@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="assets/images/prototype-4/lesson-4-banner.png">
 
 Describe what students will be doing and provide, or expand upon, the assignment outcome.
 
