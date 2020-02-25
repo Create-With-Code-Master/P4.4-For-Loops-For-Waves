@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/prototype-4/lesson-4-banner.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson, we'll be learning how to add simple levels to our game by creating a new wave of opponents each time we successfully clear the island. To do this, we'll learn how to write a `for` loop.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
