@@ -1,18 +1,18 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
 # Git stuff
-git-curr-branch:
-git-prev-branch: 
+git-curr-branch: lesson-4
+git-prev-branch: lesson-3
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson:
+lesson: https://learn.unity.com/tutorial/lesson-4-4-for-loops-for-waves
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: The Spawn Manager will spawn multiple opponents in waves, adding more as each wave is defeated. A new powerup will be created with each iteration. Every time the enemies drop to zero, a new wave is spawned and the enemy count increases.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org:
-starter-code-repo:
+starter-code-repo: Prototype-4
 starter-code-url:
 # Link to Google Doc template for assignment submission. Replace the end of the link "edit?..." with "copy"
 # to force creating a copy when the link is clicked.
